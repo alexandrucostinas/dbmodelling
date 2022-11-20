@@ -20,4 +20,3 @@ update  tip_parc SET
             type='Rez stiintifica',
             description = 'Rezervatie apartinand UVT, Departamentul Geografie & MF' 
 where type = 'Stiintifica';
-select * from tip_parc
